@@ -1,4 +1,3 @@
-# Apple-Stock-Price-Forecasting
 # 📈 Deep Learning for Time Series Forecasting
 
 ## LSTM Neural Network for Sequential Data Prediction
